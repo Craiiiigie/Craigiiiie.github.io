@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Interstellar</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://craiiiigie.github.io/"/>
+  <updated>2017-03-08T00:45:28.000Z</updated>
+  <id>https://craiiiigie.github.io/</id>
+  
+  <author>
+    <name>Craigie</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Interstellar</title>
+    <link href="https://craiiiigie.github.io/2017/02/21/Interstellar/"/>
+    <id>https://craiiiigie.github.io/2017/02/21/Interstellar/</id>
+    <published>2017-02-21T07:45:35.000Z</published>
+    <updated>2017-03-08T00:45:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是第一篇正儿八经的博文！<a id="more"></a></p>
+<p>去年从FCC入门前端后，就想着搭一个自己的个人博客，一是记录下平时学到的小技巧，二来也可以把前端知识用在这里练练手，然后十二月的时候先是申请了GH-PAGES，心中绘制了无比巨大的蓝图巨大到我画满了好几张A4纸…然后由于年前的忙碌，渐渐变成了放置play了，然后，就没有然后了…</p>
+<p>年后偶然发现了别人用hexo+gh搭建的博客，简约酷炫（后来知道是非常流行的Next主题），回头看了下GH-PAGES默认的主题，随手我就删掉了repo…</p>
+<p>关于具体搭建的步骤，我后面会再写一篇详细介绍，也不是为了啥</p>
+<blockquote>
+<p> <del>就是为了装B咋滴</del></p>
+</blockquote>
+<p>就是自己记录一下过程，万一哪天忘记过程了</p>
+<blockquote>
+<p><del>就没法装B了</del></p>
+</blockquote>
+<hr>
+<p><img src="http://olux8nvo1.bkt.clouddn.com/interstellar-pic1.jpg?imageView2/0/format/webp/interlace/1/q/75|imageslim" alt="">  </p>
+<blockquote>
+<p>Murphy’s law doesn’t mean that something bad will happen. It means that whatever <em>can</em> happen, will happen.</p>
+</blockquote>
+<p>我也不知道为什么空间的名字就成了interstellar，域名就带了interstellar，第一篇博文就叫interstellar，我想大概只是因为我重复看了太多遍interstellar，我也不知道为什么，大概是因为interstellar是星际主题的科幻电影里拍的最真实的电影吧（我瞎说的）所以当我想<del>是时候装一波有文化有思想</del>的时候就会拿出它的名号</p>
+<p>不过话说回来，interstellar的确是一部超棒的电影，然鹅我并不是个很懂电影的人，并不能说出拍摄怎样怎样，音乐怎样怎样，但是如果你没看过它，那不用多想我就会推荐你现在就去看一遍。我不是很擅长安利，也不太会总结什么故事剧情了，至于评价如何什么的，可以转战去看豆瓣评论娱乐娱乐，至于电影嘛，Just enjoy it. </p>
+<p>反正IMDb是这样说的</p>
+<blockquote>
+<p><a href="http://www.imdb.com/title/tt0816692/" target="_blank" rel="external">Interstellar (2014) - IMDb</a></p>
+</blockquote>
+<p>这篇电影安利文(误)废话了这么多差不多也该完结了，还是想把这里做成一个技术博客，记录一下遇过的坑，当做一个记学习笔记的地方吧！</p>
+<h2 id="如果有人发现了这个小角落愿意互换友链那真是非常非常欢迎的！"><a href="#如果有人发现了这个小角落愿意互换友链那真是非常非常欢迎的！" class="headerlink" title="如果有人发现了这个小角落愿意互换友链那真是非常非常欢迎的！"></a>如果有人发现了这个小角落愿意互换友链那真是非常非常欢迎的！</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是第一篇正儿八经的博文！
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://craiiiigie.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://craiiiigie.github.io/2017/02/07/HelloWorld/"/>
+    <id>https://craiiiigie.github.io/2017/02/07/HelloWorld/</id>
+    <published>2017-02-07T09:03:40.000Z</published>
+    <updated>2017-03-09T02:07:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>终于有自己的博客了！<a id="more"></a></p>
+<p>花了好几天的时间终于用hexo+github搭建了自己的blog</p>
+<p>这篇文章暂时用来测试各种插件以及md语法</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span><span class="tag">&lt;/<span class="name">title</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span><span class="javascript"></span></div><div class="line">    <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> ds = <span class="built_in">document</span>.createElement(<span class="string">'script'</span>);</div><div class="line">        ds.type = <span class="string">'text/javascript'</span>;ds.async = <span class="literal">true</span>;</div><div class="line">        ds.src = (<span class="built_in">document</span>.location.protocol == <span class="string">'https:'</span> ? <span class="string">'https:'</span> : <span class="string">'http:'</span>) + <span class="string">'//static.duoshuo.com/embed.js'</span>;</div><div class="line">        ds.charset = <span class="string">'UTF-8'</span>;</div><div class="line">        (<span class="built_in">document</span>.getElementsByTagName(<span class="string">'head'</span>)[<span class="number">0</span>]</div><div class="line">        || <span class="built_in">document</span>.getElementsByTagName(<span class="string">'body'</span>)[<span class="number">0</span>]).appendChild(ds);</div><div class="line">    &#125;</div><div class="line"><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">    Hello World</div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>
+<p>也暂时记录一下我的修改路程</p>
+<ul>
+<li>[x] 搭建blog</li>
+<li>[x] 添加多说评论</li>
+<li>[x] 添加网易云音乐</li>
+<li>[x] 添加nest背景效果</li>
+<li>[x] 修改profile和logo部分样式</li>
+<li>[x] 弃用主题分享插件，使用多说分享插件</li>
+<li>[x] 调整nest设置</li>
+<li>[x] 调整设置了多说分享插件的参数问题</li>
+<li>[x] 修改多说评论样式</li>
+<li>[x] 解决多说分享undefined的问题</li>
+<li>[x] 设置多说UA失败，百度分享测试环境时成功部署后不显示</li>
+<li>[x] 找出了百度分享失败的原因，gh-pages默认域名强制https导致百度分享无法使用</li>
+<li>[x] 万网购买域名，更改dns（dnspod），解决强制https问题</li>
+<li>[x] 多说UA可以使用了，分享改成了bdshare</li>
+<li>[x] 了解了设置文章banner，接下来解决图床问题</li>
+<li>[x] 使用gulp压缩静态资源</li>
+<li>[x] 七牛加速域名需要备案，推迟计划，先使用云存储加速图片</li>
+<li>[x] 项目部署到coding，加速国内访问</li>
+<li>[x] 更改了dns解析，现在变成了https，加了 Let’s Encrypt证书</li>
+<li>[x] 取消了https，原因会有各种不兼容，GTMDHTTPS</li>
+<li>[x] 使用七牛图片处理，转换成WebP格式，高质量压缩图片大小</li>
+<li>[*] 练习md语法</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;终于有自己的博客了！
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://craiiiigie.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="测试" scheme="https://craiiiigie.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
