@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://craiiiigie.github.io/"/>
-  <updated>2017-04-12T03:16:28.662Z</updated>
+  <updated>2017-04-12T06:37:41.502Z</updated>
   <id>https://craiiiigie.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://craiiiigie.github.io/2017/04/12/HowToSetBlog/"/>
     <id>https://craiiiigie.github.io/2017/04/12/HowToSetBlog/</id>
     <published>2017-04-12T02:45:35.000Z</published>
-    <updated>2017-04-12T03:16:28.662Z</updated>
+    <updated>2017-04-12T06:37:41.502Z</updated>
     
     <content type="html"><![CDATA[<p>分享一下建站的过程吧！<a id="more"></a></p>
 <p>博客搭建好之后因为工作的事情，闲置了有一个月了，之前搭建时候踩过的坑都有点忘记了，加上最近单位给配置了新电脑，家里也换成了MAC，正好来结合换环境的问题介绍一下我搭建博客的过程吧。</p>
@@ -46,10 +46,11 @@
 <p>然后去<a href="https://www.dnspod.cn/Login?r=/console/dashboard" target="_blank" rel="external">DNSPOD</a>注册账号后添加域名解析，如：</p>
 <p><img src="http://olux8nvo1.bkt.clouddn.com/DNS.png?imageView2/0/format/webp/interlace/1/q/75|imageslim" alt=""></p>
 <p>注：因为我同时部署了coding和GitHub所以域名解析的参数仅供参考</p>
-<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>关于同时部署的问题：部署在国内的coding上，的确是加快了访问速度，具体可以参考<code>http://shomy.top/2016/03/03/hexo-in-coding-github/</code></p>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>关于同时部署的问题：部署在国内的coding上，的确是加快了访问速度，<br>具体可以参考<a href="http://shomy.top/2016/03/03/hexo-in-coding-github/" target="_blank" rel="external">http://shomy.top/2016/03/03/hexo-in-coding-github/</a></p>
 <p>关于CDN加速域名：需要认证备案的域名，备案的前提是有国内的服务器，所以就没去折腾，多金的少爷可以考虑一下阿里云的vps</p>
-<p>关于https：没有实际的意义，可以让自己的域名更加有逼格（大概，具体可以参考<code>https://www.tiexo.cn/https/</code></p>
+<p>关于https：没有实际的意义，可以让自己的域名更加有逼格（大概<br>具体可以参考<a href="https://www.tiexo.cn/https/" target="_blank" rel="external">https://www.tiexo.cn/https/</a></p>
 <p>关于更新文章：hexo更新文章很方便，文章以<code>markdown</code>的语法编写保存，具体的语法和新建文章方式可以查看文档或Google，另外好像有插件可以支持后台更新文章，有兴趣的童鞋可以去了解一下</p>
+<p>关于更换了电脑如何更新博客：只需要把原来电脑里的博客目录全部复制拷贝过去，然后重新安装node.js和hexo即可，非常方便</p>
 <p>最后，搭建博客的过程中参考其他大佬的博客或者文章是很必要的，坦白的说，除了搭建的教程，也学习了很多其他之前没有接触过的知识，收获很多，总之，遇到问题了反而是件好事，折腾的过程中，反而更有利于掌握技巧。</p>
 ]]></content>
     
