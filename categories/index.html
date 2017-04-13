@@ -354,22 +354,20 @@ ga('send', 'pageview');
 </footer>
         
     
-
-    <script type="text/javascript">
-    var duoshuoQuery = {short_name:'craiiiigie'};
-    (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    //ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//interstellar-craigie.me/js/embed.js';
-    //ds.src = 'https://craiiiigie.github.io/js/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0]
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
+    <script>
+    var disqus_config = function () {
+        
+            this.page.url = 'https://craiiiigie.github.io/categories/index.html';
+        
+        this.page.identifier = 'undefined';
+    };
+    (function() { 
+        var d = document, s = d.createElement('script');  
+        s.src = '//' + 'interstellar-1' + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
     })();
-    </script>
-
-
+</script>
 
 
 
