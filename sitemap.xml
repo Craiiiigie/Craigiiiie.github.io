@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://craiiiigie.github.io/2017/02/07/HelloWorld/</loc>
+    
+    <lastmod>2017-04-13T08:17:44.318Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://craiiiigie.github.io/2017/04/12/HowToSetBlog/</loc>
     
     <lastmod>2017-04-12T06:44:39.981Z</lastmod>
@@ -9,23 +16,9 @@
   </url>
   
   <url>
-    <loc>https://craiiiigie.github.io/2017/02/07/HelloWorld/</loc>
-    
-    <lastmod>2017-03-09T02:07:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://craiiiigie.github.io/2017/02/21/Interstellar/</loc>
     
     <lastmod>2017-03-08T00:45:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://craiiiigie.github.io/categories/index.html</loc>
-    
-    <lastmod>2017-02-07T08:06:44.000Z</lastmod>
     
   </url>
   
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://craiiiigie.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-02-07T08:06:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://craiiiigie.github.io/categories/index.html</loc>
     
     <lastmod>2017-02-07T08:06:44.000Z</lastmod>
     
