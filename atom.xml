@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://craiiiigie.github.io/"/>
-  <updated>2017-04-12T06:44:39.981Z</updated>
+  <updated>2017-04-14T02:50:53.564Z</updated>
   <id>https://craiiiigie.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://craiiiigie.github.io/2017/04/12/HowToSetBlog/"/>
     <id>https://craiiiigie.github.io/2017/04/12/HowToSetBlog/</id>
     <published>2017-04-12T02:45:35.000Z</published>
-    <updated>2017-04-12T06:44:39.981Z</updated>
+    <updated>2017-04-14T02:50:53.564Z</updated>
     
     <content type="html"><![CDATA[<p>分享一下建站的过程吧！<a id="more"></a></p>
 <p>博客搭建好之后因为工作的事情，闲置了有一个月了，之前搭建时候踩过的坑都有点忘记了，加上最近单位给配置了新电脑，家里也换成了MAC，正好来结合换环境的问题介绍一下我搭建博客的过程吧。</p>
@@ -62,7 +62,7 @@
     </summary>
     
     
-      <category term="技术交流" scheme="https://craiiiigie.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81/"/>
+      <category term="HEXO" scheme="https://craiiiigie.github.io/tags/HEXO/"/>
     
   </entry>
   
@@ -71,7 +71,7 @@
     <link href="https://craiiiigie.github.io/2017/02/21/Interstellar/"/>
     <id>https://craiiiigie.github.io/2017/02/21/Interstellar/</id>
     <published>2017-02-21T07:45:35.000Z</published>
-    <updated>2017-03-08T00:45:28.000Z</updated>
+    <updated>2017-04-14T02:51:02.660Z</updated>
     
     <content type="html"><![CDATA[<p>这是第一篇正儿八经的博文！<a id="more"></a></p>
 <p>去年从FCC入门前端后，就想着搭一个自己的个人博客，一是记录下平时学到的小技巧，二来也可以把前端知识用在这里练练手，然后十二月的时候先是申请了GH-PAGES，心中绘制了无比巨大的蓝图巨大到我画满了好几张A4纸…然后由于年前的忙碌，渐渐变成了放置play了，然后，就没有然后了…</p>
@@ -105,7 +105,7 @@
     </summary>
     
     
-      <category term="博客" scheme="https://craiiiigie.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="BLOG" scheme="https://craiiiigie.github.io/tags/BLOG/"/>
     
   </entry>
   
@@ -114,7 +114,7 @@
     <link href="https://craiiiigie.github.io/2017/02/07/HelloWorld/"/>
     <id>https://craiiiigie.github.io/2017/02/07/HelloWorld/</id>
     <published>2017-02-07T09:03:40.000Z</published>
-    <updated>2017-04-13T08:17:44.318Z</updated>
+    <updated>2017-04-14T02:50:40.740Z</updated>
     
     <content type="html"><![CDATA[<p>终于有自己的博客了！<a id="more"></a></p>
 <p>花了好几天的时间终于用hexo+github搭建了自己的blog</p>
@@ -155,9 +155,9 @@
     </summary>
     
     
-      <category term="博客" scheme="https://craiiiigie.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="BLOG" scheme="https://craiiiigie.github.io/tags/BLOG/"/>
     
-      <category term="测试" scheme="https://craiiiigie.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="TEST" scheme="https://craiiiigie.github.io/tags/TEST/"/>
     
   </entry>
   
